@@ -22,8 +22,7 @@ The task is to predict whether a loan applicant is likely to default based on hi
 ├── 📁 Problem Statement
 │   ├── DSW_ML_Problem_Statement
 ├── Riya Rajesh Sawant.zip
-├── README.md           # Project overview (this file)
-└── requirements.txt    # Dependencies
+└──  README.md           # Project overview (this file)
 ```
 
 ---
