@@ -17,8 +17,7 @@ The task is to predict whether a loan applicant is likely to default based on hi
 │   ├── test.csv        # Test dataset
 ├── 📁 Solution notebook
 │   ├── EDA.ipynb                                               # Exploratory Data Analysis
-│   ├── Modeling.ipynb                                          # Model building and evaluation
-│   ├── Riya Rajesh Sawant DSW_Classification_Problem.ipynb     # Final Overall Solution
+│   ├── Riya Rajesh Sawant DSW_Classification_Problem.ipynb     # EDA & Model building and evaluation
 │   ├── performance metrics results.png
 ├── 📁 Problem Statement
 │   ├── DSW_ML_Problem_Statement
@@ -82,7 +81,7 @@ Ensure you have the following installed:
    ```
 3. Run the notebooks or scripts to reproduce results:
    - EDA: `Solution notebook/EDA.ipynb`
-   - Modeling: `Solution notebook/Modeling.ipynb`
+   - Modeling: `Solution notebook/Riya Rajesh Sawant DSW_Classification_Problem.ipynb`
 
 
 
