@@ -78,9 +78,9 @@ Ensure you have the following installed:
    ```bash
    cd dsw-classification-problem
    ```
-3. Run the notebooks or scripts to reproduce results:
+3. Run the notebooks to produce results:
    - EDA: `Solution notebook/EDA.ipynb`
-   - Modeling: `Solution notebook/Riya Rajesh Sawant DSW_Classification_Problem.ipynb`
+   - EDA & Model: `Solution notebook/Riya Rajesh Sawant DSW_Classification_Problem.ipynb`
 
 
 
